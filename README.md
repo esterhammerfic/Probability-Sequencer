@@ -26,6 +26,6 @@ And if the number is above 85, note 4 will be sent. <br>
 
 <b>Master Probability Split</b> changes all Probability Splits at the same time. This is helpful if you intend to set all of them near 50%, for example. All outgoing notes can be assigned <b>random</b> values, or values of <b>zero</b> on the right side.<br><br><br><br>
 
-<b>Philosophy</b><br>
+<b>Philosophy</b><br><br>
 The idea behind this is that at any given point in a musical composition/improvisation, there is a certain probability that a certain "next note" will be selected from all possible notes. Going up seven notes in a scale heavily implies the eighth scale note; you can thwart that expectation, but thwarting it is only a significant decision because of how unexpected it would be. <br>
 <b>Given all of that, it's easy to see that if you set up the right "probabilities" for each successive note, you can get a sequencer to "pseudo-randomly" make very musically appropriate decisions.</b>
