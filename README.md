@@ -24,3 +24,4 @@ If the number is between 50 and 75, note 2 will be sent.<br>
 If the number is between 75 and 85, note 3 will be sent.<br>
 And if the number is above 85, note 4 will be sent. <br>
 
+<b>Master Probability Split</b> changes all Probability Splits at the same time. This is helpful if you intend to set all of them near 50%, for example. All outgoing notes can be assigned <b>random</b> values, or values of <b>zero</b> on the right side.
