@@ -10,7 +10,7 @@ I use <a title="Loop Midi" href="http://www.tobias-erichsen.de/software/loopmidi
 Like any sequencer, you designate the <b>speed in BPMs</b> with which it cycles through the 16 beats. You can also choose a shorter <b>"Cycle Length"</b> than the default 16.
 You can edit the <b>duration</b> and <b>velocity</b> of each midi note sent, as well as the master duration and master velocity of all notes simultaneously, on the left side. (Note that this over-rides the individual settings.)
 
-<b>"Piano Roll Start Location"</b> changes where on the keyboard you're sending your midi notes. It would be a pain if you wanted to send out midi notes between 60 and 70 and had to set that manually each time: instead, set the Piano Roll Start Location to 60, and now sending 0 refers to 60, 1 refers to 61, etc. (-5 would refer to 55).
+<b>"Piano Roll Start Location"</b> changes where on the keyboard you're sending your midi notes. It would be a pain if you wanted to send out midi notes between 60 and 70 and had to set that manually each time: instead, set the Piano Roll Start Location to 60, and now sending 0 refers to 60, 1 refers to 61, etc. (-5 would refer to 55).<br><br><br><br>
 
 <b>Probability Functions</b><br><br>
 Here's where the patch differs from a standard sequencer in some cool ways.
